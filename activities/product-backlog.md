@@ -398,7 +398,7 @@ Then the app shows "Store already exists" and no profile is saved
 
 **Use-case diagram**
 
-![][image1]
+![](img/usecasediagram.png)
 
 **UC-01: Find cheapest store for item basket**
 
